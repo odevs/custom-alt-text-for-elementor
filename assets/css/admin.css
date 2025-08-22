@@ -1,0 +1,13 @@
+.elementor-control-custom_alt_text .elementor-control-title {
+    color: #71d7f7;
+    font-weight: 600;
+}
+
+.elementor-control-custom_alt_text .elementor-control-field-description {
+    color: #a4afb7;
+    font-style: italic;
+}
+
+.elementor-control-use_custom_alt {
+    margin-top: 10px;
+}
